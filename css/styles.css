@@ -9,10 +9,14 @@ img {
 .portland {
   float: right;
   text-align: right;
+  margin: 0px;
+  padding: 0px;
 
 }
 .portland img {
   width: 50%;
+  margin: 0px;
+  padding: 0px;
 }
 h3 {
   font-size: 30px;
@@ -24,5 +28,8 @@ h2 {
   font-size: 40px;
 }
 .container {
-  background-color: #F3DADA; 
+  background-color: #F3DADA;
+}
+blockquote {
+  padding: 20px;
 }
