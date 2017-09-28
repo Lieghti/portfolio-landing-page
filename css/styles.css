@@ -1,9 +1,28 @@
 .jumbotron {
   text-align: center;
   background-color: #C5E2DF;
-  border: black;
 }
 
 img {
-  border-radius: 20px;
+  border-radius: 10px;
+}
+.portland {
+  float: right;
+  text-align: right;
+
+}
+.portland img {
+  width: 50%;
+}
+h3 {
+  font-size: 30px;
+}
+#span {
+  text-align: center;
+}
+h2 {
+  font-size: 40px;
+}
+.container {
+  background-color: #F3DADA; 
 }
