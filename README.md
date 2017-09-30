@@ -6,7 +6,7 @@
 
 ## Description
 
-This is a landing page based off of my information. This is a project commissioned by administrators at Epicodus as a part of their evening intro class curriculum. This page was build to show everything I've learned so far including, but not limited to: tags (p, h, ul, ol, li, em, strong, a, img, div, span), Bootstrap (containers, Jumbotron, Blockquotes, bg-success ,Wells, Panels.)
+This is a landing page based off of my information. This is a project commissioned by administrators at Epicodus as a part of their evening intro class curriculum. This page was built to show everything I've learned so far including, but not limited to: tags (p, h, ul, ol, li, em, strong, a, img, div, span), Bootstrap (containers, Jumbotron, Blockquotes, bg-success ,Wells, Panels.)
 
 
 ## Setup/Installation Requirements
@@ -15,11 +15,11 @@ Click on the index.html and place it in the web browser.
 
 ## Known Bugs
 
-no known bugs
+No known bugs.
 
 ## Support and contact details
 
-If you run into any issues, please reach out to me at lieghti@gmail.com
+If you run into any issues, please reach out to me at lieghti@gmail.com. 
 
 ## Technologies Used
 
